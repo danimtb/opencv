@@ -74,3 +74,7 @@ As always, we would be happy to hear your comments and receive your contribution
 -   @subpage tutorial_table_of_content_viz
 
     These tutorials show how to use Viz module effectively.
+
+-   @subpage tutorial_table_of_content_biicode
+    
+    Learning how to use OpenCV with Biicode 
