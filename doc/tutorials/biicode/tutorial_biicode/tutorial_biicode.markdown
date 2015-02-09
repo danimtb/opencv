@@ -45,12 +45,12 @@ Your binaries are located inside the bin folder:
 	$ cd bin
 	$ ./diego_opencvex_main
 
-![](images/biiapp.jpg)
+![](images/biiapp.png)
 
 
 	$ ./diego_opencvex_mainfaces
 
-![](image/lena.jpg)
+![](images/lena.png)
 
 --------
 
