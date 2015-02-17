@@ -134,6 +134,14 @@ Additionally you can find very basic sample source code to introduce you to the 
 
     We will learn how to save an Image in OpenCV...plus a small conversion to grayscale
 
+-   @subpage tutorial_biicode
+
+    _Compatibility:_ \> OpenCV 2.4
+
+    _Author:_ biicode
+
+    We will learn how to set up and use OpenCV in any OS with biicode.
+
 -   @subpage tutorial_documentation
 
     _Compatibility:_ \> OpenCV 3.0
@@ -141,3 +149,4 @@ Additionally you can find very basic sample source code to introduce you to the 
     _Author:_ Maksim Shabunin
 
     This tutorial describes new documenting process and some useful Doxygen features.
+
