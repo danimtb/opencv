@@ -293,6 +293,25 @@ world of the OpenCV.
                      :height: 90pt
                      :width:  90pt
 
+  .. tabularcolumns:: m{100pt} m{300pt}
+  .. cssclass:: toctableopencv
+
+  =============== ======================================================
+   |biicode|  **Title:** :ref:`tutorial_biicode`
+
+                  *Compatibility:* > OpenCV 2.4
+
+                  *Author:* |Author_biicode|
+
+                  We will learn how to setup and use OpenCV in any OS with biicode
+
+  =============== ======================================================
+
+     .. |biicode| image:: images/biicode.png
+                     :height: 90pt
+                     :width:  90pt
+
+
 * **Want to contribute, and see your own work between the OpenCV tutorials?**
 
   .. tabularcolumns:: m{100pt} m{300pt}
@@ -337,4 +356,5 @@ world of the OpenCV.
    ../crosscompilation/arm_crosscompile_with_cmake
    ../display_image/display_image
    ../load_save_image/load_save_image
+   ../biicode/tutorial_biicode
    ../how_to_write_a_tutorial/how_to_write_a_tutorial

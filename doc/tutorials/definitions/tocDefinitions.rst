@@ -15,3 +15,4 @@
 .. |Author_BarisD| unicode:: Bar U+0131 U+015F U+0020 Evrim U+0020 Demir U+00F6 z
 .. |Author_DomenicoB| unicode:: Domenico U+0020 Daniele U+0020 Bloisi
 .. |Author_MarvinS| unicode:: Marvin U+0020 Smith
+.. |Author_biicode| unicode:: biicode
