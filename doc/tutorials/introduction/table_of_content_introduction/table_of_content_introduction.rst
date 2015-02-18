@@ -297,7 +297,7 @@ world of the OpenCV.
   .. cssclass:: toctableopencv
 
   =============== ======================================================
-   |biicode|  **Title:** :ref:`tutorial_biicode`
+   |biicode|      **Title:** :ref:`tutorial_biicode`
 
                   *Compatibility:* > OpenCV 2.4
 

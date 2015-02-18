@@ -98,8 +98,10 @@ The next line just creates a *myuser/myblock* folder inside "blocks" with a simp
 
 Now replace your *main.cpp* contents inside *blocks/myuser/myblock* with **your app code**.
 Put the includes as:
-	
-`#include "diego/opencv/opencv/cv.h`
+
+.. code-block:: cpp
+
+ #include "diego/opencv/opencv/cv.h
 
 If you type:
 
@@ -118,9 +120,13 @@ Now, you can just `bii cpp:configure` and `bii cpp:build` your project as descri
 
 If you use regular *#include* directives, you can configure it in your **biicode.conf** file. Let your includes be:
 
+.. code-block:: cpp
+
 	#include "opencv/cv.h"     
 
 And write in your **biicode.conf**:
+
+.. code-block:: text
 
 	[includes]
 	     opencv/cv.h: diego/opencv
@@ -133,10 +139,14 @@ Switching OpenCV versions
 
 If you want to try or develop your application against **opencv 2.4.10** and also against **3.0-beta**, you can change it easily in your **biicode.conf** file, simply alternating track in your [requirements]:
 
+.. code-block:: text
+
 	[requirements]
 		diego/opencv: 0
 
 replace with:
+
+.. code-block:: text
 
 	[requirements]
 	    diego/opencv(beta): 0
