@@ -303,7 +303,7 @@ world of the OpenCV.
 
                   *Author:* |Author_biicode|
 
-                  We will learn how to setup and use OpenCV in any OS with biicode
+                  We will learn how to setup and use OpenCV in Mac OS X, Linux and Windows
 
   =============== ======================================================
 
