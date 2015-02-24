@@ -140,7 +140,7 @@ Additionally you can find very basic sample source code to introduce you to the 
 
     _Author:_ biicode
 
-    We will learn how to set up and use OpenCV in any OS with biicode.
+    We will learn how to setup and use OpenCV in Mac OS X, Linux and Windows
 
 -   @subpage tutorial_documentation
 
